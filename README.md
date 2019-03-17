@@ -11,6 +11,10 @@ VOTE -> VETO, Veto stands for power and in democracy voting is power. The voters
 1.Smartphone  
 2.Net Connection
 
+**Demonstration**
+--
+![Veto1](https://user-images.githubusercontent.com/46529129/54486585-22fd9980-48b0-11e9-8647-54d6dba0e94d.gif)
+
 **Technologies**
 --
 1.Android Studio  
